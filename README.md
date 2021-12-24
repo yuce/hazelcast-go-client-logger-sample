@@ -20,6 +20,7 @@ This sample demonstrates how to use a [zap](https://github.com/uber-go/zap) cust
 3. Update `clusterName` and `cloudToken` constants in `main.go` with the correct values.
 4. Run the sample
    ```
-   go run main.go
+   go build .
+   ./hazelcast-go-client-logger-sample
    ``` 
    
