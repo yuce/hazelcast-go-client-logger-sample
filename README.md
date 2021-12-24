@@ -23,4 +23,9 @@ This sample demonstrates how to use a [zap](https://github.com/uber-go/zap) cust
    go build .
    ./hazelcast-go-client-logger-sample
    ``` 
-   
+
+## License
+
+[Apache 2 License](https://github.com/yuce/hazelcast-go-client-logger-sample/blob/master/LICENSE).
+
+Copyright (c) 2008-2021, Hazelcast, Inc. All Rights Reserved.
